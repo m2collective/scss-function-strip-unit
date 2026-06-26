@@ -1,14 +1,13 @@
 {
-  "name": "@bu0nq/scss-function-strip-unit",
-  "version": "2.0.0",
-  "description": "A package for integrating the function of deleting units of measurement in a value",
+  "name": "@m2collective/scss-function-strip-unit",
+  "version": "0.1.0",
+  "description": "A package for integrating the function of deleting units of measurement in a value.",
   "keywords": [
+    "m2collective",
     "scss",
-    "style",
-    "frontend",
     "function",
-    "functions",
-    "strip-unit"
+    "strip-unit",
+    "style"
   ],
   "main": "index.scss",
   "exports": {
@@ -17,22 +16,22 @@
       "default": "./index.scss"
     }
   },
-  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "license": "MIT",
   "author": {
     "name": "bu0nq",
     "email": "hello@bu0nq.ru"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/scss-function-strip-unit.git"
+    "url": "git+https://github.com/m2collective/scss-function-strip-unit.git"
   },
   "bugs": {
-    "url": "https://github.com/bu0nq/scss-function-strip-unit/issues"
+    "url": "https://github.com/m2collective/scss-function-strip-unit/issues"
   },
-  "homepage": "https://github.com/bu0nq/scss-function-strip-unit#readme",
+  "homepage": "https://github.com/m2collective/scss-function-strip-unit#readme",
   "publishConfig": {
     "access": "public"
   }
