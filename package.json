@@ -1,13 +1,14 @@
 {
   "name": "@m2collective/scss-function-strip-unit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A package for integrating the function of deleting units of measurement in a value.",
   "keywords": [
     "m2collective",
     "scss",
     "function",
     "strip-unit",
-    "style"
+    "style",
+    "front-end"
   ],
   "main": "index.scss",
   "exports": {
